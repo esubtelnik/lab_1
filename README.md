@@ -1,2 +1,2 @@
 # lab_1
-codic
+cod
